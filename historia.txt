@@ -2,6 +2,11 @@ Esta es la historia de Freddy Vega
 
 Freddy Vega tiene 33 años y nació en Colombia,
 
+=======
 Anita tiene 41 años y nació en internet.
+
+Hoy hablaremos de su historia.
+
+Probando github.
 
 Hoy hablaremos de su historia.
